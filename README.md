@@ -20,3 +20,6 @@ Run VB_RIFKF_GNSS/UWB_INS25.slx and VB_RI_EKF_GNSS_INS25.slx
 1. The file matlab_VB_comparsion.mat contains the datasets ESEKFM1, RIEKFM2, and RIEKFM1, which correspond to VB-ESEKF, RIEKF, and VB-RIEKF, respectively.
 2. The files matlab_VBFKF_addnoise.mat, matlab_FKF_addnoise.mat, and matlab_ISF_addnoise.mat contain the results of the VB-based federated RIEKF architecture, the traditional federated EKF architecture, and the ISF-based federated RIEKF architecture, respectively.
 3. lstm_test.mat contains the trained LSTM network results for lstm_test.
+
+# Result
+Full Changelog: https://github.com/songford4-ai/VB-RIEKF-for-cooperative-navigation/commits/result
