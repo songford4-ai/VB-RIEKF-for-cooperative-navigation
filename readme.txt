@@ -4,4 +4,5 @@
 数据解释：
 1.matlab_VB_comparsion.mat内部数据有ESEKFM1/RIEKFM2/RIEKFM1分别代表VB-ESEKF/RIEKF/VB-RIEKF
 2.matlab_VBFKF_addnoise.mat/matlab_FKF_addnoise.mat/matlab_ISF_addnoise.mat中基于VB的联邦RIKEF架构、传统的联邦EKF架构、基于ISF的联邦RIKEF架构的结果
-3.lstm_test.mat是lstm_test训练的网络结果，
+
+3.lstm_test.mat是lstm_test训练的网络结果.
