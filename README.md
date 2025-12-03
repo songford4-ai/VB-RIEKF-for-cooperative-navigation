@@ -6,3 +6,6 @@ Authors:Fujun Song,Qinghua Zeng; Rui Zhang; Xiaohu Zhu; Zongyu Zhang and Xiaoyu 
 # MATLAB version
 MATLAB 2023a
 
+
+# RUN
+Run VB_RIFKF_GNSS/UWB_INS25.slx and VB_RI_EKF_GNSS_INS25.slx
